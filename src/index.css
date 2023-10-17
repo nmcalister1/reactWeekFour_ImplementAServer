@@ -1,0 +1,29 @@
+#root {
+    display: block;
+    width: 800px;
+    border: 3px solid black;
+    margin: 0 auto;
+    background-color: rgb(123, 123, 179);
+}
+
+h1 {
+    border-bottom: 2px black solid;
+    padding: 18px;
+}
+
+nav, main {
+    padding: 10px;
+}
+
+nav {
+    font-weight: bolder;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+li {
+    padding: .5rem; 
+}
+
+nav a {    
+    text-decoration: none;
+}
